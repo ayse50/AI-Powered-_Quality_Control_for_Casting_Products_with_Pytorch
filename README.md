@@ -1,7 +1,7 @@
 # 🛠️ AI-Powered Quality Control for Casting Products
 #### This projekt demonstrates the classification of industrial casting parts using Deep Learning. The primary goal is to automate the quality assurance process by distinguishing between **defect-free parts(OK)** and **defective parts (DEFECT)**.
 
-## 🚀 Project Overview
+## 🔍 Project Overview
 #### The project evaluates three diffrenet model architectures. The final implementation using '' archieved an accuracy of ''.
 
 ### Model Performance Comparison
